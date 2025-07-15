@@ -8,7 +8,7 @@ Link: https://github.com/sr-lhz/MachineLearning_PredModels.git
 
 Directory/Path: /sr-lhz/MachineLearning_PredModels
 
-Description: Script(s) in R for visualizing sample-specific profiles of copy-number alterations (CNAs) -including chromosomal gains, losses, and events of loss-of-heterozygosity (LOH)- based on the log2-ratio & B-Allele Frequency (BAF) parameters as obtained from SNP-array or next-generation sequencing (NGS) data.
+Description: Script(s) in R for building classifier models, using machine learning (ML), that can predict each case/subject/row's probability of an event (such as a clinical event, like cancer relapse or patient death).
 
 The steps included in each ML-based classifier model are (image below):
 1. Imputation to predict missing values.
