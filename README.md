@@ -15,4 +15,4 @@ The steps included in each ML-based classifier model are (image below):
 
 #####################################################################
 
-![Example Image](example.png)
+![Example Image - Stepwise structure of ML-based models ](Stepwise_ML_pipeline.png)
